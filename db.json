@@ -1,0 +1,25 @@
+{
+    "packages": [
+        {
+            "id": 81,
+            "title": "Round Silver Frame Sun Glasses",
+            "description": "A pair of sunglasses can protect your eyes from being hurt. For car driving, vacation travel, outdoor activities, social gatherings,",
+            "price": 19,
+            "discountPercentage": 10.1
+        }
+    ],
+    "customer": [
+        {
+            "id": 123,
+            "name": "Imran",
+            "age": "30",
+            "contactno": 6381221572
+        },
+        {
+            "id": 122,
+            "name": "yahya",
+            "age": "25",
+            "contactno": 6381221512
+        }
+    ]
+}
